@@ -1,5 +1,4 @@
 li {
-    display: inline-flex;
-    color: rgb(253, 108, 132);
-    
+    display: inline-flex;  
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
 }
